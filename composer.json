@@ -18,8 +18,8 @@
         }
     ],
     "require": {
-        "illuminate/database": "self.version",
-        "illuminate/pagination": "self.version"
+        "illuminate/database": ">4.0",
+        "illuminate/pagination": ">5.0"
     },
     "require-dev": {
         "orchestra/testbench": "3.2.*",
